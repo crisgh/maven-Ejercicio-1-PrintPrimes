@@ -1,0 +1,2 @@
+Un test no pasa y es debido a que el código de printprimes tiene un fallo.
+Siempre que buscamos un numero primo el contador se inicializa a uno y en el caso de que no se le introduzca ningun valor primo estaria contando ese valor inicial, por tanto indica un 1 en vez de 0.
