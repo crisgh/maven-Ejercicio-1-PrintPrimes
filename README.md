@@ -20,6 +20,5 @@ satisfaga el criterio de caminos principales (prime paths). ¿Es viable dicho ca
 un test que lo recorra)?
 7. Escribe en el fichero PrintPrimesTest.java pruebas unitarias que satisfagan los requisitos identificados
 para el criterio de cobertura de caminos principales (primary paths).
-8. Explica si las pruebas escritas en el apartado anterior han servido para identificar alg ́
-un fallo del c ́odigo. En
+8. Explica si las pruebas escritas en el apartado anterior han servido para identificar algún fallo del codigo. En
 caso afirmativo describe cuál es el fallo y con qué prueba concreta lo has identificado.
