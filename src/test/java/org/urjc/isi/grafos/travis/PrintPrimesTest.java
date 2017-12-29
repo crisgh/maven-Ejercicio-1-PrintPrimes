@@ -1,8 +1,5 @@
 package org.urjc.isi.travis;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
@@ -18,4 +15,9 @@ public class PrintPrimesTest{
 	public void Init() {
         System.setOut(new PrintStream(outContent));
 	}
+	@Test					 
+	public void Apartado3() {
+		PrintPrimes.printPrimes(1);
+		assertEquals("Prime: 2\n", outContent.toString());
+}
 }
