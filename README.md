@@ -1,13 +1,10 @@
 ## maven-Ejercicio-1-PrintPrimes
 # Ejercicio para la asignatura ISI:
 
-1. La clase PrintPrimes permite calcular los primeros n n ́
-umeros primos. Estudia el c ́odigo. Comp ́ılalo y
-ejec ́
-utalo.
-2. Dibuja el grafo de control de flujo del m ́etodo printPrimes(). Etiqueta los nodos y los arcos con las l ́ıneas
-de c ́
-odigo.
+1. La clase PrintPrimes permite calcular los primeros n números primos. Estudia el código. Compílalo y
+ejecutalo.
+2. Dibuja el grafo de control de flujo del metodo printPrimes(). Etiqueta los nodos y los arcos con las lıneas
+de codigo.
 3. Escribe un test que visite el arco que va de la sentencia while a la sentencia for pero sin ejecutar el cuerpo
 del bucle while.
 4. Escribe los requisitos de prueba que se deben satisfacer para garantizar la cobertura de nodos (node cove-
