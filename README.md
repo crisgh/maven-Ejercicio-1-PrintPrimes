@@ -22,5 +22,4 @@ un test que lo recorra)?
 para el criterio de cobertura de caminos principales (primary paths).
 8. Explica si las pruebas escritas en el apartado anterior han servido para identificar alg ́
 un fallo del c ́odigo. En
-caso afirmativo describe cu ́
-al es el fallo y con qu ́e prueba concreta lo has identificado.
+caso afirmativo describe cuál es el fallo y con qué prueba concreta lo has identificado.
